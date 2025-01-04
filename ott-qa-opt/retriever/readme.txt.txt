@@ -1,0 +1,1 @@
+retriever feito depois das perguntas serem refeitas por LLM
